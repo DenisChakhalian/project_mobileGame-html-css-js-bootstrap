@@ -1,5 +1,7 @@
 # project_mobileGame (html, css, js, bootstrap)
 
+### Development was carried out until June 24 2020
+
 site link: https://project-mobilegame.web.app/
 
 how to open locally:
